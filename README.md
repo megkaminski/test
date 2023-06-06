@@ -14,7 +14,8 @@
 <param ve-entity eid="Q70702" title="alkalois">
 <param ve-entity eid="Q891922" title="bombilla">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" label="Gauchos drinking mate" description="Photograph. Attribution. Institution" license="public domain">
-<param ve-image url="[https://commons.wikimedia.org/wiki/File:Ilex_paraquariensis,_Aquifoliaceae_(8645996278).jpg]([https://upload.wikimedia.org/wikipedia/commons/6/60/Ilex_paraquariensis%2C_Aquifoliaceae_%288645996278%29.jpg](https://upload.wikimedia.org/wikipedia/commons/6/60/Ilex_paraquariensis%2C_Aquifoliaceae_%288645996278%29.jpg))" label="The widely planted source of Yerba Mate." description="Photograph. Attribution. Institution" license="public domain">
+
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Ilex_paraquariensis%2C_Aquifoliaceae_%288645996278%29.jpg" label="The widely planted source of Yerba Mate." description="Photograph. Attribution. Institution" license="public domain">
 
 
 ## History 
