@@ -15,7 +15,7 @@
 <param ve-entity eid="Q891922" title="bombilla">
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" label="Gauchos drinking mate" description="Photograph. Attribution. Institution" license="public domain">
 
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/6/60/Ilex_paraquariensis%2C_Aquifoliaceae_%288645996278%29.jpg" label="Leaves." description="Photograph. Attribution. Institution" license="public domain">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/6/60/Ilex_paraquariensis%2C_Aquifoliaceae_%288645996278%29.jpg" label="Leaves." description="Photograph. Attribution. Institution" license="public domain" fot="contain">
 
 
 ## History 
